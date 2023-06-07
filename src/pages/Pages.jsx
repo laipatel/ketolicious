@@ -11,10 +11,10 @@ function Pages() {
   return (
     <AnimatePresence mode="wait">
       <Routes location={location} key={location.pathname}>
-        <Route path="/" element={<Home />} />
-        <Route path="/cuisine/:type" element={<Cuisine />} />
-        <Route path="/results/:search" element={<Results />} />
-        <Route path="/recipe/:name" element={<Recipe />} />
+        <Route path="/ketolicious/" element={<Home />} />
+        <Route path="/ketolicious/cuisine/:type" element={<Cuisine />} />
+        <Route path="/ketolicious/results/:search" element={<Results />} />
+        <Route path="/ketolicious/recipe/:name" element={<Recipe />} />
       </Routes>
     </AnimatePresence>
   );
