@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ketolicious/static/css/main.7cb7d86c.css",
-    "main.js": "/ketolicious/static/js/main.8364984f.js",
+    "main.js": "/ketolicious/static/js/main.5c056c65.js",
     "index.html": "/ketolicious/index.html",
     "main.7cb7d86c.css.map": "/ketolicious/static/css/main.7cb7d86c.css.map",
-    "main.8364984f.js.map": "/ketolicious/static/js/main.8364984f.js.map"
+    "main.5c056c65.js.map": "/ketolicious/static/js/main.5c056c65.js.map"
   },
   "entrypoints": [
     "static/css/main.7cb7d86c.css",
-    "static/js/main.8364984f.js"
+    "static/js/main.5c056c65.js"
   ]
 }
