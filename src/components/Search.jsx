@@ -9,7 +9,7 @@ function Search() {
 
   const submitHandler = (e) => {
     e.preventDefault();
-    navigate('/results/'+input);
+    navigate('/ketolicious/results/'+input);
   };
 
   return (

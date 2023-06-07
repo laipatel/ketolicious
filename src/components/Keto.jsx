@@ -44,7 +44,7 @@ function Keto() {
             return (
               <SplideSlide key={recipe.id}>
                 <Card>
-                  <Link to={"/recipe/" + recipe.id}>
+                  <Link to={"/ketolicious/recipe/" + recipe.id}>
                     <p>{recipe.title}</p>
                     <img src={recipe.image} alt={recipe.title} />
                     <Gradient />
