@@ -6,7 +6,7 @@
 
 1. Clone the directory
 
-    ```git clone https://github.com/laipatel/ketolicious.git```
+    ```git clone https://github.com/laipatel/ketolicious.git; cd ketolicious```
 
 2. Install dependencies
 
